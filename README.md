@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @rajsavsani41
-- 👀 I’m interested in APP DEVELOPMENT AND CYBER SECURITY
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-rajsavsani41/rajsavsani41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i am Raj savsani 
+i completed my bca in MARWADI UNIVERSITY 6.15 cgpa. i know it's not good numbers but currently here on github after 2 year . i started my learning journey from beginning .
+i am intrested in web development , also in ai/ml .
+here you can se my projects and my works and my achivements .
+contact me : rajsavsnai41@gmail.com
